@@ -8,20 +8,19 @@
 ## 1 Jak zagrać?!
 
 
-Aby zagrać w grę należy pobrać folder MadRoosterExe i uruchomić plik Ma-
-dRooster.exe
+Aby zagrać w grę należy pobrać folder MadRoosterExe i uruchomić plik MadRooster.exe
 
 ## 2 Opis
 
-Mad Rooster to dwuwymiarowa gra platformowa w stylistyce pixel art , w któ-
-rej kierujemy poczynaniami tytułowego koguta. W grze pokonujemy różne prze-
-szkody, walczymy z różnymi przeciwnikami oraz zwiedzamy świat.
+Mad Rooster to dwuwymiarowa gra platformowa w stylistyce pixel art , 
+w której kierujemy poczynaniami tytułowego koguta. W grze pokonujemy różne 
+przeszkody, walczymy z różnymi przeciwnikami oraz zwiedzamy świat.
 
 ## 3 Geneza
 
 Gra powstała jako projekt zaliczeniowy na studia. Gra jest nie dokończona i
-raczej nie będzie, ale tworzenie jej bardzo mi pomogło poznawać i uczyć się śro-
-dowiska Unity a wszczególności pisania skryptów w c#. Niestety gdy tworzyłem
+raczej nie będzie, ale tworzenie jej bardzo mi pomogło poznawać i uczyć się 
+środowiska Unity a wszczególności pisania skryptów w c#. Niestety gdy tworzyłem
 tą gre nie korzystałem jeszcze z gita, dlatego dodałem prawie cały projekt na
 raz.
 
