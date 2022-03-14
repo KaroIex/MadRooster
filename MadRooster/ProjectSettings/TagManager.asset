@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - HIt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - Waterr
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3871628241
+    locked: 0
+  - name: thirdPlan
+    uniqueID: 1910227729
+    locked: 0
+  - name: secondPlan
+    uniqueID: 2202519349
+    locked: 0
+  - name: player
+    uniqueID: 161563637
+    locked: 0
+  - name: gui
+    uniqueID: 3702162911
+    locked: 0

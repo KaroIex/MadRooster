@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 077ae3f5d807f1d4d9094ac2a32769fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixeled
+  fontNames:
+  - Pixeled
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 491968f2aa03eb04e905f886ffcafc57, type: 3}
+  - {fileID: 12800000, guid: 0b702af393a793c4d88b32ff738f5289, type: 3}
+  - {fileID: 12800000, guid: 9aa4b06c4c01638429fb7438743f4f30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
